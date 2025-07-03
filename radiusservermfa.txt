@@ -30,3 +30,5 @@
 [2025-07-03T12:08:45.009Z] [daf61345-2844-4c5b-992c-b099b4b2f7da] basar.sonmez doğrulandı. Email: basar.sonmez@dikkan.com, IP: 172.16.44.8
 [2025-07-03T12:08:45.082Z] [daf61345-2844-4c5b-992c-b099b4b2f7da] E-posta gönderildi: basar.sonmez@dikkan.com → Kod: 295162
 [2025-07-03T12:08:45.084Z] [daf61345-2844-4c5b-992c-b099b4b2f7da] basar.sonmez → Access-Challenge gönderildi.
+[2025-07-03T12:14:13.418Z] [SYSTEM] Uygulama başlatıldı.
+[2025-07-03T12:14:13.446Z] [SYSTEM] RADIUS sunucusu başlatıldı: 0.0.0.0:1812
