@@ -1,0 +1,29 @@
+{
+  "name": "dikkanradiusmfa",
+  "version": "1.0.0",
+  "description": "Bu Node.js tabanlı uygulama, RADIUS protokolü üzerinden çift aşamalı kimlik doğrulama (MFA) sağlayan bir sunucudur. Kullanıcı ilk aşamada LDAP ile doğrulanır. Ardından, e-posta adresine 6 haneli bir kod gönderilir. Bu kod doğru şekilde girildiğinde erişim sağlanır.",
+  "main": "radiusservermfa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node radiusservermfa.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raptiye210/dikkanRadiusMFA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raptiye210/dikkanRadiusMFA/issues"
+  },
+  "homepage": "https://github.com/raptiye210/dikkanRadiusMFA#readme",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "ldapjs": "^3.0.7",
+    "node-cron": "^4.2.0",
+    "nodemailer": "^7.0.4",
+    "radius": "^1.1.4",
+    "uuid": "^11.1.0"
+  }
+}

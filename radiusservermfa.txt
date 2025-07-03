@@ -1,0 +1,32 @@
+[2025-07-03T11:53:01.878Z] [SYSTEM] Uygulama başlatıldı.
+[2025-07-03T11:53:01.911Z] [SYSTEM] RADIUS sunucusu başlatıldı: 0.0.0.0:1812
+[2025-07-03T11:54:24.922Z] [a84cb085-c3d6-43ef-8a6d-13d75af7f1d6] Yeni bağlantı alındı: 172.16.44.8
+[2025-07-03T11:54:24.932Z] [a84cb085-c3d6-43ef-8a6d-13d75af7f1d6] ------------------------------------------------------------
+[2025-07-03T11:54:24.932Z] [a84cb085-c3d6-43ef-8a6d-13d75af7f1d6] Attr: User-Name = basar.sonmez
+[2025-07-03T11:54:24.958Z] [a84cb085-c3d6-43ef-8a6d-13d75af7f1d6] basar.sonmez doğrulandı. Email: basar.sonmez@dikkan.com, IP: 172.16.44.8
+[2025-07-03T11:54:25.030Z] [a84cb085-c3d6-43ef-8a6d-13d75af7f1d6] E-posta gönderildi: basar.sonmez@dikkan.com → Kod: 865323
+[2025-07-03T11:54:25.032Z] [a84cb085-c3d6-43ef-8a6d-13d75af7f1d6] basar.sonmez → Access-Challenge gönderildi.
+[2025-07-03T11:54:27.727Z] [6ca2c48a-9726-453a-b366-51311a8036d8] Yeni bağlantı alındı: 172.16.44.8
+[2025-07-03T11:54:27.727Z] [6ca2c48a-9726-453a-b366-51311a8036d8] ------------------------------------------------------------
+[2025-07-03T11:54:27.728Z] [6ca2c48a-9726-453a-b366-51311a8036d8] Attr: User-Name = basar.sonmez
+[2025-07-03T11:54:27.751Z] [6ca2c48a-9726-453a-b366-51311a8036d8] basar.sonmez doğrulandı. Email: basar.sonmez@dikkan.com, IP: 172.16.44.8
+[2025-07-03T11:54:27.806Z] [6ca2c48a-9726-453a-b366-51311a8036d8] E-posta gönderildi: basar.sonmez@dikkan.com → Kod: 596869
+[2025-07-03T11:54:27.808Z] [6ca2c48a-9726-453a-b366-51311a8036d8] basar.sonmez → Access-Challenge gönderildi.
+[2025-07-03T11:56:44.418Z] [SYSTEM] Uygulama başlatıldı.
+[2025-07-03T11:56:44.446Z] [SYSTEM] RADIUS sunucusu başlatıldı: 0.0.0.0:1812
+[2025-07-03T11:56:50.798Z] [25eae54e-d170-4f3d-ae64-429f38793578] Yeni bağlantı alındı: 172.16.44.8
+[2025-07-03T11:56:50.812Z] [25eae54e-d170-4f3d-ae64-429f38793578] ------------------------------------------------------------
+[2025-07-03T11:56:50.813Z] [25eae54e-d170-4f3d-ae64-429f38793578] Attr: User-Name = basar.sonmez
+[2025-07-03T11:56:50.846Z] [25eae54e-d170-4f3d-ae64-429f38793578] basar.sonmez doğrulandı. Email: basar.sonmez@dikkan.com, IP: 172.16.44.8
+[2025-07-03T11:56:50.909Z] [25eae54e-d170-4f3d-ae64-429f38793578] E-posta gönderildi: basar.sonmez@dikkan.com → Kod: 604289
+[2025-07-03T11:56:50.911Z] [25eae54e-d170-4f3d-ae64-429f38793578] basar.sonmez → Access-Challenge gönderildi.
+[2025-07-03T12:00:41.539Z] [SYSTEM] Uygulama başlatıldı.
+[2025-07-03T12:00:41.568Z] [SYSTEM] RADIUS sunucusu başlatıldı: 0.0.0.0:1812
+[2025-07-03T12:08:35.633Z] [SYSTEM] Uygulama başlatıldı.
+[2025-07-03T12:08:35.661Z] [SYSTEM] RADIUS sunucusu başlatıldı: 0.0.0.0:1812
+[2025-07-03T12:08:44.971Z] [daf61345-2844-4c5b-992c-b099b4b2f7da] Yeni bağlantı alındı: 172.16.44.8
+[2025-07-03T12:08:44.979Z] [daf61345-2844-4c5b-992c-b099b4b2f7da] ------------------------------------------------------------
+[2025-07-03T12:08:44.980Z] [daf61345-2844-4c5b-992c-b099b4b2f7da] Attr: User-Name = basar.sonmez
+[2025-07-03T12:08:45.009Z] [daf61345-2844-4c5b-992c-b099b4b2f7da] basar.sonmez doğrulandı. Email: basar.sonmez@dikkan.com, IP: 172.16.44.8
+[2025-07-03T12:08:45.082Z] [daf61345-2844-4c5b-992c-b099b4b2f7da] E-posta gönderildi: basar.sonmez@dikkan.com → Kod: 295162
+[2025-07-03T12:08:45.084Z] [daf61345-2844-4c5b-992c-b099b4b2f7da] basar.sonmez → Access-Challenge gönderildi.

@@ -1,0 +1,34 @@
+{
+  "radius": {
+    "port": 1812,
+    "secret": "basarbasar"
+  },
+  "ldap": {
+    "url": "ldap://172.16.40.1:389",
+    "baseDN": "DC=dikkan,DC=local",
+    "domain": "dikkan.local"
+  },
+  "smtp": {
+    "host": "172.16.40.10",
+    "port": 3535,
+    "secure": false,
+    "auth": false,
+    "tls": {
+      "rejectUnauthorized": false
+    },
+    "from": "test@dikkan.com",
+    "subject": "radius test",
+    "message": "Hesabınız ile VPN bağlantısı yapılıyor. Doğrulama kodunuz:"
+  },
+  "code": {
+    "maxAgeMs": 180000
+  },
+  "files": {
+    "debugLog": "radiusservermfa.txt",
+    "codeLog": "radiusservermfa_codes.txt",
+    "codeBackupPrefix": "radiusservermfa_"
+  },
+  "backup": {
+    "cronTime": "5 9 * * *"
+  }
+}
