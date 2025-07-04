@@ -1,8 +1,8 @@
 # Node.js 22 tabanlı resmi bir imaj kullanıyoruz
-FROM node:22
+FROM node:latest
 
 # Çalışma dizinini ayarlıyoruz
-WORKDIR /
+WORKDIR /home/basar/RadiusMFA
 
 # package.json ve package-lock.json (varsa) kopyalıyoruz
 COPY package*.json ./
