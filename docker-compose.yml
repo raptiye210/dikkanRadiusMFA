@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  dikkan-radius:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: dikkan-radius-mfa
+    container_name: dikkan-radius-container
+    ports:
+      - "1812:1812/udp"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped

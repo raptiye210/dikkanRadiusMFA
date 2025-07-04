@@ -2,7 +2,7 @@
 FROM node:latest
 
 # Çalışma dizinini ayarlıyoruz
-WORKDIR /home/basar/RadiusMFA
+WORKDIR /dikkan-radius-mfa
 
 # package.json ve package-lock.json (varsa) kopyalıyoruz
 COPY package*.json ./
